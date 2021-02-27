@@ -1,0 +1,1 @@
+KikeIP = "lum-customer-HEINRICH-zone-THIS IS TBELL2 I GOT NUKED!!!!! PLEASE CHECK YOUR FRIENDSLIST ON THE PLATFORM WE ARE SPEAKING AT (NOT TELEGRAM)-country-"+country+"-"+sessid_luminati+"-route_err-pass_dyn-dns-remote:amjhy3lfo4ye@servercountry-SE.zproxy.lum-superproxy.io:22225"
